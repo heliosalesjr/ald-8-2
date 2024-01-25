@@ -10,7 +10,7 @@ const MatHero = () => {
             Matemática e Educação Financeira
             </h1>
             <p className="text-lg text-white py-8">
-            Na Primeira Etapa, temos a apresentação dos temas de Matemática e Educação Financeira contextualizados com as atividades do projeto. Para iniciar a conversa com os estudantes, você pode apresentar aos alunos a diferença entre Matemática Financeira e Educação Financeira. Os temas de Matemática previstos para esta etapa são sistema de numeração decimal, sistema monetário brasileiro, operações com números naturais e divisão euclidiana e propriedades da igualdade.
+            Nesta seção, vamos retomar os conceitos de Matemática e Educação Financeira envolvidos na segunda parte do Livro do Estudante: Mediana, Coeficiente de Gini, Impostos, Superávit e Inflação. Também disponibilizamos os links do site Por Quê? referentes aos capítulos trabalhados.
             </p>
             </div>
             <div className="hidden md:block">
